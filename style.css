@@ -1,0 +1,47 @@
+.backimg{
+    background-image: url("rgs2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    background-color: rgb(62, 57, 92);
+    margin:8px;
+    padding:3px;
+    border-radius: 5px;
+    font-family: Microsoft JhengHei;
+}
+.container{
+    overflow:auto;
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    width:650px;
+    height:100%;
+    align-items: center;
+    background-color: rgba(255, 255, 255,0.3);
+    margin:0 auto;
+    border-radius: 1px;
+    font-family: Microsoft JhengHei;
+    
+}
+.box{
+    font-size: 15px;
+    flex:none;
+    width:63%;
+    background-color: rgba(215, 225, 255 ,0.99);
+    border:2px solid rgb(37, 35, 88 ,);
+    margin:6px;
+    padding:10px 12px 10px 12px;
+    border-radius: 3px;
+}
+.h3ti{
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
