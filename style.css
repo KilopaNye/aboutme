@@ -16,7 +16,6 @@
     border-radius: 5px;
     font-family: Microsoft JhengHei;
 }
-/*
 .container{
     overflow:auto;
     display:flex;
@@ -29,9 +28,7 @@
     margin:0 auto;
     border-radius: 1px;
     font-family: Microsoft JhengHei;
-    
 }
-*/
 .box{
     font-size: 15px;
     flex:none;
