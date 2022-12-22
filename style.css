@@ -43,7 +43,7 @@
 .h3ti{
     font-size: 17px;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
 }
 /*------------------------------RWD--------------------------------*/
 @media(max-width:600px){
